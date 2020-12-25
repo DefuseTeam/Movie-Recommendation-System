@@ -2,6 +2,14 @@
 
 The availability of huge amounts of data in recent years have led users to being faced with an overload of choices. The outcome is a growth on the importance of recommendation systems due to their ability to solve this choice overload problem, by providing users with the most relevant products from many possible choices.
 
+
+### Block Diagram of the application
+
+
+![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/block_diagram.jpg)
+
+
+
 ### Snapshots of the application
 
 
@@ -10,11 +18,6 @@ The availability of huge amounts of data in recent years have led users to being
 
 ![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/result.jpg)
 
-
-### Block Diagram of the application
-
-
-![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/block_diagram.jpg)
 
 
 
