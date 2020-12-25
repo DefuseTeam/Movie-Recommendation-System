@@ -6,7 +6,7 @@ The availability of huge amounts of data in recent years have led users to being
 ### Block Diagram of the application
 
 
-![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/block_diagram.jpg | width=100)
+![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/block_diagram.jpg)
 
 
 
