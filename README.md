@@ -4,5 +4,15 @@ The availability of huge amounts of data in recent years have led users to being
 
 ### Snapshots of the application
 
+
 ![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/home.jpg)
+
+
+![alt text](https://github.com/DefuseTeam/Movie-Recommendation-System/blob/master/Screenshots/result.jpg)
+
+
+
+
+
+
 
